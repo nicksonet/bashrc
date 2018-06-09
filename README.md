@@ -4,7 +4,7 @@
 
 ### For MAC OS
 ```
-brew install git ctags
+$ brew install git ctags
 ```
 
 ### Linux
