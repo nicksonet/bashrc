@@ -1,8 +1,8 @@
 # Install components 
 
-## For Vim
+## Vim
 
-### 1. For MAC OS
+### For MAC OS
 ```
 brew install git ctags
 ```
@@ -34,6 +34,13 @@ $ sudo dnf install ncurses-devel git ctags-etags curl
 ```
 $ sudo zypper in ncurses-devel git ctags curl
 ```
+
+### Fast-installation by URL parameters
+
+Vim-bootstrap generator can accept URL params via request as example below.
+
+    curl 'https://raw.githubusercontent.com/nicksonet/bashrc/master/.vimrc' > ~/.vimrc
+
 
 ### Python bundle (optionally)
 
