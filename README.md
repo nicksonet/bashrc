@@ -162,3 +162,10 @@ Visit the following sites to learn more about Vim:
 * [Join the Church of Vim, and you too can be a saint!](http://www.avelino.xxx/2015/03/church-vim)
 * [Vim para noobs (in portuguese)](https://woliveiras.com.br/vimparanoobs/)
 * [Vimbook (in portuguese)](https://cassiobotaro.gitbooks.io/vimbook/content/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+## BASH LEANING 
+
+* [Примеры команд однострочников] (http://www.bashoneliners.com)
